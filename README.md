@@ -1,7 +1,8 @@
 👋 Hi, I'm Mohamed Afsal
+
 🚀 Senior Platform Engineer | ☁️ Cloud-Native | 🔐 DevSecOps | 🧩 Kubernetes
 
-📧 mohdafsal.ak@gmail.com
+Connect me on 📧 mohdafsal.ak@gmail.com
 
 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-afsal-3a5879a5)
 
