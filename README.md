@@ -8,7 +8,7 @@ Connect me on 📧 mohdafsal.ak@gmail.com
 
 🧠 About Me
 
-With 11+ years of IT experience (8+ years in cloud & container platforms), I design and operate secure, scalable, and automated infrastructure for enterprise SaaS and regulated environments.
+With 11+ years of IT experience, I design and operate secure, scalable, and automated infrastructure for enterprise SaaS and regulated environments.
 
 I specialize in:
 
